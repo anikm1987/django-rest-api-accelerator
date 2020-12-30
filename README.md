@@ -37,8 +37,7 @@ You can create your own repository by selecting this repository as template repo
   $ pip install -r requirements.txt
   ```
 
-4. Run the development server:
+4. Run the development server and navigate to [http://localhost:8000](http://localhost:8000):
 ```
 python manage.py runserver 0.0.0.0:8000
 ```
-Navigate to [http://localhost:8000](http://localhost:8000)
