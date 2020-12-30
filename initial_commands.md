@@ -20,4 +20,5 @@ python manage.py runserver 0.0.0.0:8000
 You have 21 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, authtoken, contenttypes, sessions.    
 Run 'python manage.py migrate' to apply them.
 
-- 
+- Added our first endpoint inside api_app 
+    - Check api_app/views.py, api_app/urls.py and accelarator_project/urls.py
