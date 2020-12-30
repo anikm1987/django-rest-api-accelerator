@@ -19,7 +19,7 @@ You can create your own repository by selecting this repository as template repo
 
 1. Clone the repo
   ```
-  $ git clone https://mygithub.gsk.com/gsk-tech/django-rest-api-accelerator.git
+  $ git clone https://mygithub.gsk.com/anikm1987/django-rest-api-accelerator.git
   $ cd django-rest-api-accelerator
   ```
 
