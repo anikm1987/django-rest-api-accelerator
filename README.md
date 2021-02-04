@@ -14,7 +14,7 @@ Rest framework accelerator repository using django framework
 
 Quick Start
 ----------
-You can create your own repository by selecting this repository as template repository. Made neccessary changes according to your project name for below comand
+You can create your own repository by forking this repository. Made neccessary changes according to your project name for below comand
 
 
 1. Clone the repo
